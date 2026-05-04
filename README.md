@@ -3,9 +3,12 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32%2B-red?logo=streamlit)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-API-orange?logo=google)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-taskmateai.streamlit.app-FF4B4B?logo=streamlit)](https://taskmateai.streamlit.app/)
 
 > **Final Project — AI Chatbot berbasis LLM**
 > Mata Kuliah: Data Scientist | Topik: Natural Language Processing & LLM Integration
+
+🚀 **[Coba Sekarang → taskmateai.streamlit.app](https://taskmateai.streamlit.app/)**
 
 ---
 
